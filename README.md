@@ -1,5 +1,5 @@
 # CopyTables
-it's worked kode
+it's worked сode
 copying tables between two databases on java
 
 if you want to copy from mysql to oracle or to another database, just chenge connection url
